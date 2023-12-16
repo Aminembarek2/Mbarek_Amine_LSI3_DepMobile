@@ -11,6 +11,7 @@ public class Patient {
         this.isFasting = isFasting;
     }
 
+
     public int getAge() {
         return age;
     }
